@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background-image: url("bg depan.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
